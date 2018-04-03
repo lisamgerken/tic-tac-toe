@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+h1 {
+	font-size: 38px;
+	text-align: center;
+	padding: 10px;
+	font-family: 'Pacifico', cursive;
+}
+
+#gameBoard {
+	display: flex;
+	width: 454px;
+	height: 454px;
+	margin: 0 auto;
+	flex-wrap: wrap;
+}
+
+.box1 {
+	width: 150px;
+	height: 150px;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.box2 {
+	width: 150px;
+	height: 150px;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+}
+
+.box3 {
+	width: 150px;
+	height: 150px;
+	border-bottom: 2px solid black;
+}
+
+.box4 {
+	width: 150px;
+	height: 150px;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.box5 {
+	width: 150px;
+	height: 150px;
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.box6 {
+	width: 150px;
+	height: 150px;
+	border-bottom: 2px solid black;
+}
+
+.box7 {
+	width: 150px;
+	height: 150px;
+	border-right: 2px solid black;
+}
+
+.box8 {
+	width: 150px;
+	height: 150px;
+	border-right: 2px solid black;
+}
+
+.box9 {
+	width: 150px;
+	height: 150px;
+}
+
+img {
+	border: 
+	width: 150px;
+	height: 150px;
+}
