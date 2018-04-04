@@ -15,59 +15,59 @@ h1 {
 	flex-wrap: wrap;
 }
 
-.box1 {
+#box1 {
 	width: 150px;
 	height: 150px;
 	border-right: 2px solid black;
 	border-bottom: 2px solid black;
 }
 
-.box2 {
+#box2 {
 	width: 150px;
 	height: 150px;
 	border-bottom: 2px solid black;
 	border-right: 2px solid black;
 }
 
-.box3 {
+#box3 {
 	width: 150px;
 	height: 150px;
 	border-bottom: 2px solid black;
 }
 
-.box4 {
+#box4 {
 	width: 150px;
 	height: 150px;
 	border-right: 2px solid black;
 	border-bottom: 2px solid black;
 }
 
-.box5 {
+#box5 {
 	width: 150px;
 	height: 150px;
 	border-right: 2px solid black;
 	border-bottom: 2px solid black;
 }
 
-.box6 {
+#box6 {
 	width: 150px;
 	height: 150px;
 	border-bottom: 2px solid black;
 }
 
-.box7 {
+#box7 {
 	width: 150px;
 	height: 150px;
 	border-right: 2px solid black;
 }
 
-.box8 {
+#box8 {
 	width: 150px;
 	height: 150px;
 	border-right: 2px solid black;
 }
 
-.box9 {
+#box9 {
 	width: 150px;
 	height: 150px;
 }
